@@ -1,6 +1,6 @@
 # Activision Non-Commercial Use License Agreement
 
-Copyright © 2024, 2025 Activision Publishing, Inc.
+Copyright © 2025 Activision Publishing, Inc.
 
 This Non-Commercial Use License Agreement (“License”), between you, or your employer or other entity (if you are entering into this agreement on behalf of your employer or other entity) (“Licensee” or “You”) and Activision Publishing, Inc. (“Activision”) applies to your use of any computer program, algorithm, source code, object code, or software that is made available by Activision under this License along with any specifications, manuals, documentation, and other written information provided by Activision related thereto (collectively, the “Work”).
 
